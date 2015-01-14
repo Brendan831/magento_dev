@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Hovelstay_ConfigViewer>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Hovelstay_ConfigViewer>
+    </modules>
+</config>
